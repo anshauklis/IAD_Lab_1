@@ -1,2 +1,5 @@
-# IAD_Lab_1
-First DS lab work. Pandas, visualiztion, etc
+# Intelluctal Data Analysis, First Year Visualization Lab.
+
+First DA/DS Labaratory work at Intellectual Data Analysis (Data Science minor at HSE)
+
+Consists of several tasks on data insights, grouping, visualization.
